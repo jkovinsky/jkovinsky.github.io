@@ -33,7 +33,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: I am a rising third-year at UCLA majoring in Cognitive Science. My interests lie primarily in brain and behavioral sciences, but I have a growing interest and appreciation of programming as a means to better understand the human mind. As a future career path, I hope to work alongside computer scientists to develop machines that think like us! Outside of the classroom, I play goalie for the UCLA ice hockey team, work part-time for the UCLA IT Desktop Support team on campus, and enjoy cooking for friends! 
+about_me_description: I am a rising third-year at UCLA majoring in Cognitive Science. My interests lie primarily in brain and behavioral sciences, but I have a growing interest and appreciation of programming as a means to better understand the human mind. As a future career path, I hope to help develop machines that think like us! Outside of the classroom, I play goalie for the UCLA ice hockey team, work part-time for the UCLA IT Desktop Support team on campus, and enjoy cooking for friends! 
 
 # SKILLS SECTION
 # show_skills_card:
@@ -64,7 +64,7 @@ show_projects_card: true
 # > setting this to false, will omit your listed projects
 show_projects: true
 # projects_title: The will be displayed as the title of your projects
-projects_title: Projects / Relevant Coursework
+projects_title: Projects & Relevant Coursework
 # show_os_projects:
 # > setting this to true, will display your public projects on github
 # > setting this to false, will omit your public projects on github
