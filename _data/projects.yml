@@ -21,3 +21,5 @@
     - tag: pandas
     - tag: numpy
     - tag: sklearn
+- name: Coursework
+  descr: Programming in Computing, Programming in R, Python and Applications, Multivariable Calculus, Linear Algebra
